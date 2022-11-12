@@ -33,37 +33,14 @@ int main()
 }
 
 /*
+readme.md
 
+by using c++ vectors library, you can save more time building the code.
 
+implementation is by using stack.
+you need to input the string first and then 
+use the stack algorithm to determine what character
+get pop-ed or not.
 
-
-i = 0
-a   <   b   c   <
-
-0   1   2   3   4
-
-i = 1
-a   b   c   <
-
-0   1   2   3
-
-i = 0
-b   c   <
-
-0   1   2
-
-
-i = 1
-b   c   <
-
-0   1   2
-
-
-i = 2
-b
-
-0
-
-i = 0
-
+any further questions do not hesitate to ask me :) 
 */
