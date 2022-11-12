@@ -27,7 +27,6 @@ int main()
             if (arr[i] == arr[i + 1])
                 count++;
         }
-
         cout << count << endl;
     }
 
