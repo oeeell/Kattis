@@ -20,7 +20,6 @@ int main()
         }
         else
         {
-
             sampleInput.push_back(sample[i]);
         }
     }
@@ -38,9 +37,10 @@ readme.md
 by using c++ vectors library, you can save more time building the code.
 
 implementation is by using stack.
-you need to input the string first and then 
+you need to input the string first and then
 use the stack algorithm to determine what character
 get pop-ed or not.
 
-any further questions do not hesitate to ask me :) 
+any further questions do not hesitate to ask me :)
+
 */
